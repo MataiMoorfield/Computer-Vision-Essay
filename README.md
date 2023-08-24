@@ -1,5 +1,3 @@
-# Computer-Vision-Essay
-My essay on computer vision. Check out the computer vision project
 # Project Assignment - Computer Vision
 
 Computer vision is a field of artificial intelligence enabling computers to derive information from an input source, such as a video, photo, or live video feed. It enables computers to replicate the human vision system. The entire computer vision process implicates image acquisition data screening, repetitive analysis, and the identification and extraction of information. This comprehensive digital process enables computer systems to comprehend a diverse range of visual content and operate on accordingly. 
